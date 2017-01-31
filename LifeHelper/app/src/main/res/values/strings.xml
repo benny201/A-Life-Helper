@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LifeHelper</string>
+    <string name="block1">Service</string>
+    <string name="block2">News</string>
+    <string name="block3">Pictures</string>
+    <string name="block4">Personal Center</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
 </resources>

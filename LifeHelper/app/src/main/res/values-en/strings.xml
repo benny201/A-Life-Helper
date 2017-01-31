@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">LifeHelper</string>
+    <string name = "app_name">LifeHelper</string>
+    <string name="block1">Service</string>
+    <string name="block2">News</string>
+    <string name="block3">Pictures</string>
+    <string name="block4">Personal Center</string>
+    <string name="setting">Setting</string>
 </resources>
