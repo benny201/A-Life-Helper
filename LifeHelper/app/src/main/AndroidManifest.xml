@@ -16,8 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".UI.SettingActivity" android:label="@string/setting"></activity>
+        <activity
+            android:name=".UI.SettingActivity"
+            android:label="@string/setting" />
+        <activity android:name=".UI.HomeActivity" />
+        <activity android:name=".UI.GuideActivity"></activity>
     </application>
 
 </manifest>
