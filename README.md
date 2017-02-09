@@ -17,9 +17,11 @@
 * Baidu Map api
 * TTS
 
-## 主页逻辑
+## 主页布局
 * TabLayout
 * ViewPager
+* FloatingButton
+
 
 
 ### TabLayout
@@ -33,3 +35,4 @@
 * tabMaxWidth: 最大宽度
 * tabMinWidth: 最小宽度
 * tabMode: tab的行为: fixed(一次显示所有，配合tabGravity = fill)/scrollable(可滑动) 
+
